@@ -1,16 +1,14 @@
-### Hi there 👋
+<h1>Hi, I'm Samantha!</h1>
 
-<!--
-**SamanthaSutter/SamanthaSutter** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>C# Projects:</h2>
+  
+- <b>Student's Grades</b>
+  - [Reading grades from text file using inheritance](https://github.com/SamanthaSutter/Sutter_Final) 
+- <b>Student's App</b>
+  - [Entering student's information](https://github.com/SamanthaSutter/StudentApp) 
+- <b>Trivia Game</b>
+  - [Answers held on text file, displays right or wrong](https://github.com/SamanthaSutter/Sutter_TriviaGame) 
+- <b>BMI Calculator</b>
+  - [Calculates BMI](https://github.com/SamanthaSutter/Sutter_BMICalculator) 
+      
