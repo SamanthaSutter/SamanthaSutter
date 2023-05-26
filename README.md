@@ -4,7 +4,7 @@
 <h2>C# Projects:</h2>
   
 - <b>Student's Grades</b>
-  - [Reading grades from text file using inheritance](https://github.com/SamanthaSutter/Sutter_Final) 
+  - [Reading grades from text file](https://github.com/SamanthaSutter/Sutter_Final) 
 - <b>Student's App</b>
   - [Entering student's information](https://github.com/SamanthaSutter/StudentApp) 
 - <b>Trivia Game</b>
