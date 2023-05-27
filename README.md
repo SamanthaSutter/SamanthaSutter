@@ -9,6 +9,8 @@
   - [Entering student's information](https://github.com/SamanthaSutter/StudentApp) 
 - <b>Trivia Game</b>
   - [Answers held on text file, displays right or wrong](https://github.com/SamanthaSutter/Sutter_TriviaGame) 
+- <b>Farmer Game</b>
+  - [The chicken, grain and the fox game](https://github.com/SamanthaSutter/Sutter_Farmer_Game) 
 - <b>BMI Calculator</b>
   - [Calculates BMI](https://github.com/SamanthaSutter/Sutter_BMICalculator) 
       
